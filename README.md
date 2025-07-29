@@ -45,7 +45,7 @@ Follow these steps to get the application running on your local machine.
 
 
 ```bash
-git clone <your-repository-url>
+git clone https://github.com/bumbum2403/Employee_Management.git
 cd employee_performance_tracker
 ```
 
